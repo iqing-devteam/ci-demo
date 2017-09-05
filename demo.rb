@@ -1,5 +1,5 @@
 class HelloCi
   def self.demo
-    "Hello CI"
+    "Hello CI!"
   end
 end
