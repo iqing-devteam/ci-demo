@@ -1,0 +1,4 @@
+image: ruby:latest
+test:
+  script:
+    - ruby test_demo.rb
